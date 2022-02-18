@@ -9,3 +9,6 @@ ffmpeg/
 build/
 legendas/
 textos/
+*.spec
+__pycache__/
+dist/
