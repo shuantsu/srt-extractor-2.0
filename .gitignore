@@ -1,10 +1,6 @@
 env/
 mtimes.pickle
 src/gui.py
-srt-extractor.build/
-srt-extractor.dist/
-srt-extractor.onefile-build/
-srt-extractor.cmd
 ffmpeg/
 build/
 legendas/
